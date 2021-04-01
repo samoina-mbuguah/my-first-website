@@ -16,4 +16,4 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 ### License
 *MIT*
-Copyright (c) 2021 **Yommie Samora**
+Copyright (c) 2021 **Samoina Mbuguah**
