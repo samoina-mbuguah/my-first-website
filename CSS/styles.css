@@ -20,3 +20,9 @@ p {
   font-weight: 200;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+.test-box {
+  background-color: lightpink;
+  color: black;
+  border: solid purple;
+}
